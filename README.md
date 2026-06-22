@@ -1,33 +1,50 @@
 <div align="right">
-  <a href="README-ru.md">🇷🇺 Русский</a>
+  <a href="README-en.md">🇬🇧 English</a>
 </div>
 
-# Hello, I'm Albert 👋
+# Добрый день, я Альберт 👋
 
-### Junior Penetration Tester | AppSec Enthusiast | DevSecOps
+### Младший Пентестер | AppSec | DevSecOps
 
-I am an Information Systems Engineering student passionate about web application security, infrastructure protection, and AI safety. Currently advancing my practical skills through hands-on offensive security labs and collaborative development projects.
+Я студент Университета Иннополис, направления CyberSecurity, специализируюсь на безопасности веб-приложений, защите инфраструктуры и AI Safety. В данный момент активно развиваю практические навыки через лабораторные работы по наступательной безопасности (offensive security) и командную разработку.
+## 🎯 Чем я сейчас занимаюсь
+- Разрабатываю платформу для выявления уязвимостей больших языковых моделей (LLM).
+- Углубляю знания в области OWASP Top-10 и автоматизированном анализе кода (SAST/SCA).
 
-## 🎯 Current Focus
-- Completing the **Junior Cyber Security Analyst** path on Hack The Box.
-- Researching Large Language Model (LLM) vulnerabilities and AI safety protocols.
-- Deepening knowledge in OWASP Top-10 and automated code analysis (SAST/SCA).
 
-## 🛠️ Tech Stack & Tools
-*(Здесь мы используем красивые бейджи)*
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+## 🛠️ Технологии и Инструменты
+![Python](https://shieldcn.dev/badge/Python-3776AB.svg?variant=outline&logo=python&logoColor=3776AB)
+![Java](https://shieldcn.dev/badge/Java-ED8B00.svg?variant=outline&logo=java&logoColor=ED8B00)
+![Docker](https://shieldcn.dev/badge/Docker-2496ED.svg?variant=outline&logo=docker&logoColor=2496ED)
+![Linux](https://shieldcn.dev/badge/Linux-FCC624.svg?variant=outline&logo=linux&logoColor=FCC624)
+![Bash](https://shieldcn.dev/badge/Bash-4EAA25.svg?variant=outline&logo=gnu-bash&logoColor=4EAA25)
+![Git](https://shieldcn.dev/badge/Git-F05032.svg?variant=outline&logo=git&logoColor=F05032)
 
-## 🏆 Hack The Box Status
-*(HTB дает специальную ссылку на картинку с твоим прогрессом. Обязательно вставь её сюда! Это ОЧЕНЬ ценится рекрутерами)*
+
+
+## 🚀 Ключевые проекты
+- 🛡️ **[LLM-Safety-Platform](https://github.com/RII6/LLM-Safety-platform)**: Командный проект (Capstone) по оценке протоколов безопасности ИИ и аппаратному управлению ресурсами виртуальных машин (GPU/RAM).
+- 🕸️ **[Custom Honeypot](https://github.com/musyata/honeypot)**: Система, разработанная для перехвата, логирования и анализа вредоносной сетевой активности.
+- ⚡ **[Visual-Circuit-Designer](https://github.com/IUMusicalFish19/Visual-Circuit-Designer)**: Full-stack веб-платформа для проектирования и симуляции цифровых логических схем. Написана на Python и JS, включает контейнеризацию Docker и автоматизированные пайплайны CI/CD.
+- ⚙️ **[DevSecOps Intro](https://github.com/RII6/DevSecOps-Intro)**: Реализация безопасных пайплайнов CI/CD с интеграцией сканеров уязвимостей (SAST/SCA).
+
+## 🌍 Языки
+![Russian](https://shieldcn.dev/badge/Русский-Родной-0033A0.svg?variant=outline)
+![English](https://shieldcn.dev/badge/English-C1-CE1126.svg?variant=outline)
+![German](https://shieldcn.dev/badge/Deutsch-В_процессе_изучения-FFCE00.svg?variant=outline)
+
+
+
+
+
+<!-- 
+надо или нет не знаю
+
+![OWASP](https://shieldcn.dev/badge/OWASP-FFFFFF.svg?variant=outline&logo=owasp&logoColor=FFFFFF)
+
+
+
+## 🏆 Прогресс на Hack The Box
+*(Не забыть заменить ТВОЙ_ID_ЗДЕСЬ на свой реальный ID из настроек профиля HTB)*
 [![Hack The Box](https://www.hackthebox.eu/badge/image/ТВОЙ_ID_ЗДЕСЬ)](https://app.hackthebox.com/profile/ТВОЙ_ID_ЗДЕСЬ)
-
-## 🚀 Key Projects
-- 🛡️ **[LLM-Safety-Platform](ссылка)**: Collaborative Capstone project evaluating AI safety protocols and managing compute infrastructure.
-- 🕸️ **[Custom Honeypot](ссылка)**: System designed to capture and analyze malicious network activity.
-- ⚙️ **[DevSecOps Intro](ссылка)**: Implementation of secure CI/CD pipelines with integrated SAST/SCA vulnerability scanning.
-- 🔒 **macOS VPN Toggle**: Custom utility integrated into the Control Center via system configuration profiles for rapid network securing.
+-->! 
