@@ -1,6 +1,5 @@
 <div align="right">
-  <a href="README-ru.md">🇷🇺 Русский</a> •
-  <a href="README.md">🇬🇧 English</a>
+  <a href="README-ru.md">🇷🇺 Русский</a>
 </div>
 
 # Hello, I'm Albert 👋
