@@ -22,17 +22,26 @@
 ![Git](https://shieldcn.dev/badge/Git-F05032.svg?variant=outline&logo=git&logoColor=F05032)
 
 
-## 🏆 Прогресс на Hack The Box
-*(Не забудь заменить ТВОЙ_ID_ЗДЕСЬ на свой реальный ID из настроек профиля HTB)*
-[![Hack The Box](https://www.hackthebox.eu/badge/image/ТВОЙ_ID_ЗДЕСЬ)](https://app.hackthebox.com/profile/ТВОЙ_ID_ЗДЕСЬ)
 
 ## 🚀 Ключевые проекты
 - 🛡️ **[LLM-Safety-Platform](https://github.com/RII6/LLM-Safety-platform)**: Командный проект (Capstone) по оценке протоколов безопасности ИИ и аппаратному управлению ресурсами виртуальных машин (GPU/RAM).
 - 🕸️ **[Custom Honeypot](https://github.com/musyata/honeypot)**: Система, разработанная для перехвата, логирования и анализа вредоносной сетевой активности.
+- ⚡ **[Visual-Circuit-Designer](https://github.com/IUMusicalFish19/Visual-Circuit-Designer)**: Full-stack веб-платформа для проектирования и симуляции цифровых логических схем. Написана на Python и JS, включает контейнеризацию Docker и автоматизированные пайплайны CI/CD.
 - ⚙️ **[DevSecOps Intro](https://github.com/RII6/DevSecOps-Intro)**: Реализация безопасных пайплайнов CI/CD с интеграцией сканеров уязвимостей (SAST/SCA).
-- 🔒 **macOS VPN Toggle**: Кастомная утилита, интегрированная в Control Center через системные конфигурационные профили macOS для быстрого управления сетевой защитой.
 
 ## 🌍 Языки
 ![Russian](https://shieldcn.dev/badge/Русский-Родной-0033A0.svg?variant=outline)
 ![English](https://shieldcn.dev/badge/English-C1-CE1126.svg?variant=outline)
 ![German](https://shieldcn.dev/badge/Deutsch-В_процессе_изучения-FFCE00.svg?variant=outline)
+
+
+
+
+
+<!-- 
+надо или нет не знаю
+
+## 🏆 Прогресс на Hack The Box
+*(Не забыть заменить ТВОЙ_ID_ЗДЕСЬ на свой реальный ID из настроек профиля HTB)*
+[![Hack The Box](https://www.hackthebox.eu/badge/image/ТВОЙ_ID_ЗДЕСЬ)](https://app.hackthebox.com/profile/ТВОЙ_ID_ЗДЕСЬ)
+-->! 
