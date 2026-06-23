@@ -40,6 +40,9 @@
 <!-- 
 надо или нет не знаю
 
+
+Школьные достижения https://drive.google.com/drive/folders/1pHjL8MAjU0QEGbjv0M2KOqJ-FVxMbyRt?usp=share_link
+
 ![OWASP](https://shieldcn.dev/badge/OWASP-FFFFFF.svg?variant=outline&logo=owasp&logoColor=FFFFFF)
 
 
