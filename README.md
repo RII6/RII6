@@ -2,13 +2,13 @@
   <a href="README-en.md">🇬🇧 English</a>
 </div>
 
-# Добрый день, я Альберт Хечоян 👋
+# Добрый день, я Альберт Хечоян
 
 ### DevSecOps Engineer | CyberSecurity Enthusiast
 
 Я студент Университета Иннополис (направление «Инженерия Информационных Систем»). Специализируюсь на построении безопасных пайплайнов CI/CD, автоматизации проверок уязвимостей. Совмещаю сильную фундаментальную базу в Computer Science с практическим опытом лидерства.
 
-## 🎯 Мой фокус
+##  Мой фокус
 - **Безопасные CI/CD пайплайны (Shift-Left):** проектирую пайплайны (GitHub Actions, GHCR) и интегрирую автоматизацию безопасности, включая сканеры **Semgrep**, **Trivy** и pre-commit хуки.
 - **Защита инфраструктуры и Supply Chain:** настраиваю харденинг **Docker**-контейнеров, Keyless-подпись образов с помощью **Cosign**, SHA-pinning, подпись SBOM и предотвращение утечек секретов.
 - **Управление уязвимостями (SAST/SCA/DAST):** автоматизирую проверки уязвимостей, включая интеграцию **OWASP ZAP** для поиска уязвимостей в запущенных веб-сервисах.
@@ -17,7 +17,7 @@
 
 - **Software Engineering:** имею опыт full-stack разработки и проектирования микросервисов, применяя знания архитектуры ОС и компьютерных сетей на практике.
 
-## 🛠️ Технологии и Инструменты
+## Технологии и Инструменты
 ![Docker](https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
 ![Git](https://shieldcn.dev/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![GitHub Actions](https://shieldcn.dev/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white)
@@ -36,13 +36,13 @@
 ![Linux](https://shieldcn.dev/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 ![Bash](https://shieldcn.dev/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white)
 
-## 🚀 Ключевые проекты
-- 🛡️ **[LLM-Safety-Platform](https://github.com/RII6/LLM-Safety-platform)**: Платформа для оценки протоколов безопасности ИИ. Спроектировал безопасный CI/CD пайплайн, сократив время деплоя на 94%. Разработал модуль атаки моделей с помощью обфускации вредоносных промптов.
-- ⚡ **[Visual-Circuit-Designer](https://github.com/IUMusicalFish19/Visual-Circuit-Designer)**: Full-stack веб-платформа для проектирования цифровых схем (альтернатива Quartus Prime). Выступал в роли Team Lead, решая архитектурные вызовы и проблемы выбора стека, настроил контейнеризацию и пайплайны CI/CD.
-- ⚙️ **[DevSecOps Intro](https://github.com/RII6/DevSecOps-Intro)**: Реализация пайплайнов с защитой Supply Chain (подпись SBOM) и предотвращением утечек секретов.
-- 🕸️ **[Custom Honeypot](https://github.com/musyata/honeypot)**: Система, разработанная для перехвата, логирования и анализа вредоносной сетевой активности.
+## Ключевые проекты
+-  **[LLM-Safety-Platform](https://github.com/RII6/LLM-Safety-platform)**: Платформа для оценки протоколов безопасности ИИ. Спроектировал безопасный CI/CD пайплайн, сократив время деплоя на 94%. Разработал модуль атаки моделей с помощью обфускации вредоносных промптов.
+-  **[Visual-Circuit-Designer](https://github.com/IUMusicalFish19/Visual-Circuit-Designer)**: Full-stack веб-платформа для проектирования цифровых схем (альтернатива Quartus Prime). Выступал в роли Team Lead, решая архитектурные вызовы и проблемы выбора стека, настроил контейнеризацию и пайплайны CI/CD.
+-  **[DevSecOps Intro](https://github.com/RII6/DevSecOps-Intro)**: Реализация пайплайнов с защитой Supply Chain (подпись SBOM) и предотвращением утечек секретов.
+-  **[Custom Honeypot](https://github.com/musyata/honeypot)**: Система, разработанная для перехвата, логирования и анализа вредоносной сетевой активности.
 
-## 🌍 Языки
+##  Языки
 ![Russian](https://shieldcn.dev/badge/Русский-Родной-0033A0.svg)
 ![English](https://shieldcn.dev/badge/English-C1-CE1126.svg)
 ![German](https://shieldcn.dev/badge/Deutsch-A2-FFCE00.svg)
