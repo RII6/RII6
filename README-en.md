@@ -2,32 +2,43 @@
   <a href="README.md">🇷🇺 Русский</a>
 </div>
 
-# Hello, I'm Albert 👋
+# Hello, I'm Albert Khechoyan 👋
 
-### Junior Penetration Tester | AppSec Enthusiast | DevSecOps
+### DevSecOps Engineer | CyberSecurity Enthusiast
 
-I am an Information Systems Engineering student passionate about web application security, infrastructure protection, and AI safety. Currently advancing my practical skills through hands-on offensive security labs and collaborative development projects.
+I am a student at Innopolis University (majoring in Information Systems Engineering). I specialize in building secure CI/CD pipelines and automating vulnerability scanning. I combine a strong fundamental background in Computer Science with practical leadership experience.
 
-## 🎯 Current Focus
-- Completing the **Junior Cyber Security Analyst** path on Hack The Box.
-- Researching Large Language Model (LLM) vulnerabilities and AI safety protocols.
-- Deepening knowledge in OWASP Top-10 and automated code analysis (SAST/SCA).
+## 🎯 My Focus
+- **Secure CI/CD Pipelines (Shift-Left):** I design pipelines (GitHub Actions, GHCR) and integrate security automation, including **Semgrep**, **Trivy** scanners, and pre-commit hooks.
+- **Infrastructure & Supply Chain Security:** I configure **Docker** container hardening, keyless image signing using **Cosign**, SHA-pinning, SBOM signing, and secret leakage prevention.
+- **Vulnerability Management (SAST/SCA/DAST):** I automate vulnerability scanning, including the integration of **OWASP ZAP** to find vulnerabilities in running web services.
+- **Risk Minimization & AI Security:** I develop reliable solutions, including modules for AI security testing (model attacks via malicious prompt obfuscation).
+- **Software Engineering:** I have experience in full-stack development and microservices design, applying my knowledge of OS architecture and computer networks in practice.
 
-## 🛠️ Tech Stack & Tools
-*(Здесь мы используем красивые бейджи)*
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+## 🛠️ Technologies and Tools
+![Docker](https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
+![Git](https://shieldcn.dev/badge/Git-F05032.svg?logo=git&logoColor=white)
+![GitHub Actions](https://shieldcn.dev/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white)
+![OWASP ZAP](https://shieldcn.dev/badge/OWASP_ZAP-00549A.svg?logo=owasp&logoColor=white)
+![Semgrep](https://shieldcn.dev/badge/Semgrep-000000.svg)
+![Trivy](https://shieldcn.dev/badge/Trivy-1B3A5A.svg)
+![Cosign](https://shieldcn.dev/badge/Cosign-FF5A00.svg)
+![Kubernetes](https://shieldcn.dev/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white)
 
-## 🏆 Hack The Box Status
-*(HTB дает специальную ссылку на картинку с твоим прогрессом. Обязательно вставь её сюда! Это ОЧЕНЬ ценится рекрутерами)*
-[![Hack The Box](https://www.hackthebox.eu/badge/image/ТВОЙ_ID_ЗДЕСЬ)](https://app.hackthebox.com/profile/ТВОЙ_ID_ЗДЕСЬ)
+![Python](https://shieldcn.dev/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![Java](https://shieldcn.dev/badge/Java-ED8B00.svg?logo=java&logoColor=white)
+![C++](https://shieldcn.dev/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
+![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=black)
+![Linux](https://shieldcn.dev/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
+![Bash](https://shieldcn.dev/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white)
 
 ## 🚀 Key Projects
-- 🛡️ **[LLM-Safety-Platform](ссылка)**: Collaborative Capstone project evaluating AI safety protocols and managing compute infrastructure.
-- 🕸️ **[Custom Honeypot](ссылка)**: System designed to capture and analyze malicious network activity.
-- ⚙️ **[DevSecOps Intro](ссылка)**: Implementation of secure CI/CD pipelines with integrated SAST/SCA vulnerability scanning.
-- 🔒 **macOS VPN Toggle**: Custom utility integrated into the Control Center via system configuration profiles for rapid network securing.
+- 🛡️ **[LLM-Safety-Platform](https://github.com/RII6/LLM-Safety-platform)**: A platform for evaluating AI security protocols. Designed a secure CI/CD pipeline, reducing deployment time by 94%. Developed a model attack module using malicious prompt obfuscation.
+- ⚡ **[Visual-Circuit-Designer](https://github.com/IUMusicalFish19/Visual-Circuit-Designer)**: A full-stack web platform for designing digital logic circuits (an alternative to Quartus Prime). Acted as Team Lead, solving architectural challenges and stack selection issues, and configured containerization and CI/CD pipelines.
+- ⚙️ **[DevSecOps Intro](https://github.com/RII6/DevSecOps-Intro)**: Implementation of CI/CD pipelines with Supply Chain security (SBOM signing) and secret leakage prevention.
+- 🕸️ **[Custom Honeypot](https://github.com/musyata/honeypot)**: A system designed to intercept, log, and analyze malicious network activity.
+
+## 🌍 Languages
+![Russian](https://shieldcn.dev/badge/Russian-Native-0033A0.svg)
+![English](https://shieldcn.dev/badge/English-C1-CE1126.svg)
+![German](https://shieldcn.dev/badge/German-A2-FFCE00.svg)
