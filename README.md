@@ -37,8 +37,10 @@
 ![Linux](https://shieldcn.dev/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 ![Bash](https://shieldcn.dev/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white)
 
+
+
 ## 🚀 Ключевые проекты
-- **[Autonomous SRE Infrastructure](https://github.com/твоя-ссылка/autonomous-sre-infra)**: Разработал микросервисный кластер с самовосстановлением и автомасштабированием на основе RED-метрик (Prometheus/Alertmanager). Внедрил подсистему Active Cyber Defense (интеграция Honeypot для автоматического бана атакующих на уровне Nginx) и панель для Chaos Engineering-тестирования.
+- **[Autonomous SRE Infrastructure](https://github.com/RII6/autonomous-sre-infra)**: Разработал микросервисный кластер с самовосстановлением и автомасштабированием на основе RED-метрик (Prometheus/Alertmanager). Внедрил подсистему Active Cyber Defense (интеграция Honeypot для автоматического бана атакующих на уровне Nginx) и панель для Chaos Engineering-тестирования.
 - **[LLM-Safety-Platform](https://github.com/RII6/LLM-Safety-platform)**: Платформа для оценки протоколов безопасности ИИ. Спроектировал безопасный CI/CD пайплайн, сократив время деплоя на 94%. Разработал модуль атаки моделей с помощью обфускации вредоносных промптов.
 - **[Visual-Circuit-Designer](https://github.com/IUMusicalFish19/Visual-Circuit-Designer)**: Full-stack веб-платформа для проектирования цифровых схем (альтернатива Quartus Prime). Выступал в роли Team Lead, решая архитектурные вызовы и проблемы выбора стека, настроил контейнеризацию и пайплайны CI/CD.
 - **[DevSecOps Intro](https://github.com/RII6/DevSecOps-Intro)**: Реализация пайплайнов с защитой Supply Chain (подпись SBOM) и предотвращением утечек секретов.
