@@ -38,7 +38,7 @@ I am a student at Innopolis University (majoring in Information Systems Engineer
 ![Bash](https://shieldcn.dev/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white)
 
 ## 🚀 Key Projects
-- **[Autonomous SRE Infrastructure](https://github.com/твоя-ссылка/autonomous-sre-infra)**: Developed a self-healing and auto-scaling microservices cluster driven by RED metrics (Prometheus/Alertmanager). Implemented an Active Cyber Defense subsystem (Honeypot integration for automated Nginx-level attacker banning) and a custom UI for Chaos Engineering testing.
+- **[Autonomous SRE Infrastructure](https://github.com/RII6/autonomous-sre-infra)**: Developed a self-healing and auto-scaling microservices cluster driven by RED metrics (Prometheus/Alertmanager). Implemented an Active Cyber Defense subsystem (Honeypot integration for automated Nginx-level attacker banning) and a custom UI for Chaos Engineering testing.
 - **[LLM-Safety-Platform](https://github.com/RII6/LLM-Safety-platform)**: A platform for evaluating AI security protocols. Engineered a secure CI/CD pipeline, reducing deployment time by 94%. Developed a model attack module using malicious prompt obfuscation.
 - **[Visual-Circuit-Designer](https://github.com/IUMusicalFish19/Visual-Circuit-Designer)**: A full-stack web platform for designing digital circuits (an alternative to Quartus Prime). Acted as Team Lead, resolving architectural challenges and stack selection, configured containerization, and CI/CD pipelines.
 - **[DevSecOps Intro](https://github.com/RII6/DevSecOps-Intro)**: Implementation of Supply Chain security pipelines (SBOM signing) and secrets leak prevention.
